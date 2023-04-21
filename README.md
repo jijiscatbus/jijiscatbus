@@ -1,6 +1,4 @@
-### Hi there 👋 my name is Mason. 
-
-<!--
+### Hi there 🐾 🐱 🚌 
 
 - ✨  I’m currently working on the Scrimba and Odin Project courses. 
 - 🌱 I’m currently learning HTML, CSS, and JavaScript. 
@@ -9,4 +7,3 @@
 - 💬 Ask me about literary or creative collaborations. 
 - 📫 How to reach me: masonmarcobello@duck.com
 
--->
